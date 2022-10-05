@@ -1,0 +1,19 @@
+table,th,tr,td
+{
+    background-color:pink;
+    color:red;
+    border:5px solid green;
+   border-radius: 12px;
+   padding:10px;
+   empty-cells:show ;
+   caption-side:bottom;
+   border-spacing: 16px;
+   border-collapse: separate;
+   table-layout:auto;
+   /*border:3px;/
+   border-style:dashed;
+   border-color: blue;*/
+   
+   height: 50px;
+   width: 100px;
+}

@@ -1,0 +1,18 @@
+h1
+{
+    background-color:brown;
+}
+h2
+{
+    background-color:blue;
+}
+p
+{
+    background-color:aqua;
+}
+body{
+background-image:url("assian.jpg");
+background-repeat:round;
+background-position: 20px;
+background-size: 1000px;
+}
